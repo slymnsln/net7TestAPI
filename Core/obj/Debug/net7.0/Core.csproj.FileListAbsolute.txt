@@ -1,0 +1,12 @@
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\bin\Debug\net7.0\Core.dll
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.dll
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\slymnsln\source\repos\net7TestAPI\Core\obj\Debug\net7.0\ref\Core.dll
